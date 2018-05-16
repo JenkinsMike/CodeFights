@@ -1,0 +1,1 @@
+fun sumUpNumbers(inputString: String) = Regex("""[0-9]+""").findAll(inputString).map { it.value.toInt() }.sum() //Also works -> Regex("\\d+")

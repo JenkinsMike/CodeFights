@@ -1,0 +1,1 @@
+fun longestWord(text: String) = text.split("""[^A-Za-z]""".toRegex()).maxBy { it.length }.toString()

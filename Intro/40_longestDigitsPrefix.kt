@@ -1,0 +1,1 @@
+fun longestDigitsPrefix(inputString: String): String = inputString.takeWhile { it.isDigit() }

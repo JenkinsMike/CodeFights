@@ -1,0 +1,1 @@
+fun isDigit(symbol: Char) = symbol.isDigit()

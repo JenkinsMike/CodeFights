@@ -1,0 +1,1 @@
+fun isMAC48Address(inputString: String) = Regex("""^([0-9a-fA-F]{2}[:-]){5}([0-9a-fA-F]{2})$""").matches(inputString)

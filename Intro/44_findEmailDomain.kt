@@ -1,0 +1,1 @@
+fun findEmailDomain(address: String) =  address.substring(address.lastIndexOf('@') + 1)
