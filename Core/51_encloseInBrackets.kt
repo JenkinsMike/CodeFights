@@ -1,0 +1,1 @@
+fun encloseInBrackets(inputString: String) = '(' + inputString + ')'

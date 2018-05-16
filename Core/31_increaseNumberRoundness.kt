@@ -1,0 +1,1 @@
+fun increaseNumberRoundness(n: Int) =  n.toString().trim('0').contains('0')

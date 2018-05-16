@@ -1,0 +1,1 @@
+fun largestNumber(n: Int): Int = "9".repeat(n).toInt()

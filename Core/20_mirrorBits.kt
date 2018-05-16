@@ -1,0 +1,1 @@
+fun mirrorBits(a: Int) = a.toString(2).reversed().toInt(2)

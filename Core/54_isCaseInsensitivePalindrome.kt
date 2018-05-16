@@ -1,0 +1,1 @@
+fun isCaseInsensitivePalindrome(inputString: String) = inputString.toLowerCase() == inputString.toLowerCase().reversed()
