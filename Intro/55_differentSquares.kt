@@ -15,4 +15,8 @@ fun differentSquares(matrix: MutableList<MutableList<Int>>): Int {
     
     return two_by_two_a.count()
     //return two_by_two_b.size
+    
+    /**
+     * Both work.  The Set and the List.
+     */
 }
