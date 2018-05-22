@@ -138,3 +138,9 @@ Core
 64	Week of 5/14 thru 5/20
 65	Week of 5/14 thru 5/20
 66	Week of 5/14 thru 5/20
+67	Week of 5/21 thru 5/27
+68	Week of 5/21 thru 5/27
+69	Week of 5/21 thru 5/27
+70	Week of 5/21 thru 5/27
+71	Week of 5/21 thru 5/27
+72	Week of 5/21 thru 5/27
