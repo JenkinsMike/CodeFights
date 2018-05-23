@@ -10,4 +10,4 @@ With that in mind, here are my solutions.
 
 ### Notes
 * I am a novice.  Or, at least, I stated out as one.
-* The [Completion Week](https://github.com/JenkinsMike/CodeFights/blob/master/Completion%20Week.md) file in this repository will include the calendar weeks in which I completed these tasks such that it can slightly explain why some of my solutions aren't the best or most idiomatic.
+* The [Completion Weeks](https://github.com/JenkinsMike/CodeFights/blob/master/Completion%20Weeks.md) file in this repository will include the calendar weeks in which I completed these tasks such that it can slightly explain why some of my solutions aren't the best or most idiomatic.
