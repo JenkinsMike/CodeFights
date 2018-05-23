@@ -1,6 +1,6 @@
 # Completion Week
 
-### Arcade - Intro
+## Arcade - Intro
 ```
 #	Completion Week
 1	Week of 1/29 thru 2/4
@@ -65,7 +65,7 @@
 60	Week of 4/30 thru 5/6
 ```
 
-### Arcade - Core	
+## Arcade - Core	
 ```
 #	Completion Week
 1	Week of 2/5 thru 2/11
