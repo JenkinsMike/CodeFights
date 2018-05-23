@@ -1,4 +1,4 @@
-# Completion Week
+# Completion Weeks
 
 ## Arcade - Intro
 ```
