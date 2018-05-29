@@ -4,6 +4,7 @@ fun deleteDigit(n: Int): Int {
     
     for(i in nString.indices) {
         var tempNumber = nString.removeRange(i, i + 1).toInt()
+        
         if(tempNumber > currentMax) {
             currentMax = tempNumber
         }
