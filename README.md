@@ -1,10 +1,10 @@
 # CodeFights
 Kotlin Solutions for CodeFights
 
-## Purpose
+## Purpose - Pay it Forward
 On occasion, I found myself stuck while bounding my way thru learning Kotlin via CodeFights.
-I found it very helpful to jump on Github and look at what other people did as solutions in thair language and apply it to how I was teaching myself Kotlin.
-It was very helpful and helped me apply principles and logic in effort to come to a solution.  The only thing that could have been more helpful would have been to find .kt solutions.
+I found it very helpful to jump on Github and look at what other people did as solutions in their language and apply it to how I was teaching myself Kotlin.
+This process proved very helpful.  It helped me apply principles and logic in effort to come to a solution in this language that was new to me.  The only thing that could have been more helpful would have been to find .kt solutions.
 
 With that in mind, here are my solutions.
 
