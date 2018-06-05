@@ -140,4 +140,9 @@
 70	Week of 5/21 thru 5/27
 71	Week of 5/21 thru 5/27
 72	Week of 5/21 thru 5/27
+73	Week of 6/4 thru 6/10
+74	Week of 6/4 thru 6/10
+75	Week of 6/4 thru 6/10
+76	Week of 6/4 thru 6/10
+77	Week of 6/4 thru 6/10
 ```
