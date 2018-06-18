@@ -150,5 +150,9 @@
 80	Week of 6/4 thru 6/10
 81	Week of 6/4 thru 6/10
 82	Week of 6/4 thru 6/10
-83	Week of 6/4 thru 6/10
+83	Week of 6/11 thru 6/17
+84	Week of 6/11 thru 6/17
+85	Week of 6/11 thru 6/17
+86	Week of 6/18 thru 6/24
+87	IN PROGRESS
 ```
